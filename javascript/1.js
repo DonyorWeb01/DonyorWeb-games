@@ -125,3 +125,4 @@ window.HUB_EVENTS = {
   }, window.CP.exitedLoop = function (E) {
     window.CP.PenTimer.exitedLoop(E)
   };
+
